@@ -13,7 +13,7 @@
 ## 🌐 Live Preview
 
 You can check the live website here:  
-[🔗 KAKOKI Creative Co. Live](https://kakokicreative.live/)
+[🔗 KAKOKI Creative Co.](https://kakokicreative.live/)
 
 ---
 
@@ -43,22 +43,11 @@ You can check the live website here:
 - **Isotope & ImagesLoaded**  
 - **EmailJS** for contact form integration  
 
----
 
-## 📂 Project Structure
-
-kakoki-creative-co/
-├── assets/
-│ ├── css/ # CSS files (Bootstrap, custom styles)
-│ ├── js/ # JS files (plugins, main.js, contact.js)
-│ └── img/ # Images, icons, logos
-├── index.html # Main landing page
-└── README.md # Project documentation
 
 🙌 Author
 
 Farhan Mubeen – Founder of KAKOKI Creative Co.
-Instagram
- | Email
+Email : kakokicreativeco@gmail.com
 
 Built with ❤️ and creativity.
