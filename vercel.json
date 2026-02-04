@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "kakokicreative.live"
+        }
+      ],
+      "destination": "https://kakokicreative.in/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.kakokicreative.live"
+        }
+      ],
+      "destination": "https://kakokicreative.in/$1",
+      "permanent": true
+    }
+  ]
+}
